@@ -1,6 +1,6 @@
 {
-  "name":"𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗",
-  "description":"Deploy now your 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 bot, BELTAH-MD was developed by Beltah.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "name":"𝗫𝗘𝗥𝗢𝗫 𝗠𝗗",
+  "description":"Deploy now your XEROX MD bot, XEROX-MD was developed by Xerox.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
   "repository":"https://github.com/Beltahmd/beltah-md",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗",
+      "value":"𝗫𝗘𝗥𝗢𝗫 𝗠𝗗",
       "required":false
 
     } ,
@@ -64,8 +64,8 @@
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID here after BELTAH-MD;;; , the code you receive after pairing code",   
-      "value":"BELTAH-MD;;;",
+      "description":"put your session ID here after XEROX-MD;;; , the code you receive after pairing code",   
+      "value":"XEROX-MD;;;",
       "required":true
       
     },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Beltah KE"
+    "value": "Xerox KE"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254114141192,254737681758"
+    "value": "254783722072,254742881736"
   },
     "WARN_COUNT":
   {
