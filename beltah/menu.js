@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧〈 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 〉 ✧───◆
+╭────✧〈 𝗫𝗘𝗥𝗢𝗫 𝗠𝗗 〉 ✧───◆
 ┴╭─────────────☹︎
 𓄂│▸ *Date* : ${date}
 𓄂│▸ *User* : ${s.OWNER_NAME}
@@ -47,8 +47,8 @@ const date = moment().format('DD/MM/YYYY');
     
 let menuMsg = `
 ╭──────────✇
-   *𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 V2.5.0*
-    *_Made with 💎_*
+   *𝗫𝗘𝗥𝗢𝗫 𝗠𝗗 V2.5.0*
+    *_Made with 🧑‍🚀_*
 ╰──────────✇
 
  *❄︎AVAILABLE COMMANDS❄︎*
@@ -67,9 +67,9 @@ let menuMsg = `
     menuMsg += `
 ◇            ◇
 *»»————————— ★ ——————————««*
-|⏣BELTAH-MD CREATED BY BELTAH TECH TEAM
+|⏣XEROX-MD CREATED BY XEROX TECH TEAM
 ✞✞✞✞  ✞✞✞✞✞✞✞✞✞✞  ✞✞✞✞✞✞✞✞✞  ✞✞✞✞
-|⏣THANK YOU FOR CHOOSING *𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗*
+|⏣THANK YOU FOR CHOOSING *𝗫𝗘𝗥𝗢𝗫 𝗠𝗗*
 *»»—————————— ★ ——————————««*
 `;
 
